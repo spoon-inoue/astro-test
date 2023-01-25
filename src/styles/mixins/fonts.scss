@@ -1,0 +1,4 @@
+@mixin poppins($weight: 200) {
+	font-family: 'Poppins';
+	font-weight: $weight;
+}
